@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.clr{
+	clear: both;
+}
+a{
+	text-decoration: none;	
+}
+a:hover{
+	color: red;
+}
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #333;
+}
+#body1{
+	
+}
+#wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+#shadow {
+	width: 100%;
+	float: left;
+	box-shadow: 5px 5px 20px #b9b29f;
+	
+}
+
+#btnSearch:hover{
+	background-color:teal;
+	-moz-transition: all 900ms linear;
+	-webkit-transition: all 900ms linear;
+	color: honeydew;
+}
+hr{
+	clear: both;
+	margin-top: 3px;
+	height: 3px;
+}
+
+#quangcao{
+	clear: both;
+	width: 100%;
+	margin-top: -15px;
+}
+#center{
+			margin-top: 39px;
+			height: 400px;
+		}
+		#sachnhagiakim{
+			float: left;
+			width: 200px;
+			height: 320px;
+		}
+		#centercenter{
+			margin-left: 66PX;
+			float: left;
+			width: 600px;
+		}
+		#gioithieusach
+		{
+			color:darkgreen;
+			font-size: 19px;
+		}
+		#tensach{
+			font-size: 23px;
+			
+		}
+		.text{
+			font-size: 14px;
+			float: left;
+		}
+		.textmau{
+			font-size: 14px;
+			color:green;
+			clear: none;
+			
+		}
+		hr{
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		li{
+			margin-left: 20px;
+		}
+		#centerright{
+			float: right;
+			margin-right: 90px;
+			margin-top: -8px;
+			width:200px;
+		}
+		#centercenter div{
+			font-size: 14px;
+		}
+		strong{
+			color: red;
+			font-size: 23px;
+		}
+		.lienket{ 
+            background-color:limegreen;
+            color:aliceblue;
+            border: 2px solid #73AD21;
+            border-radius:5px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 15px;
+			width: 70px;
+			height: 34px;
+			padding-top: 10px;
+        }
+        .lienket:hover{
+            background-color:darkcyan;
+            color:white;
+        }
+        .lienket:active{
+            background-color:aqua;
+        }
+		#thongtinsach
+		{
+			
+		}
+		#noidungsach{
+			color: darkgreen;
+			margin-top: -56px;
+			padding: 3px;
+		}
